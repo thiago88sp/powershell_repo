@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{thiago88sp}}/powershell_repo?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{thiago88sp}}/powershell_repo?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{thiago88sp}}/powershell_repo?color=56BEB8">
 
@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+The following project seeks to have in a centralized repository, assets that support day-to-day activities.
 
 ## :sparkles: Features ##
 
@@ -63,7 +63,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Powershell](https://www.powershellgallery.com/) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -74,13 +74,6 @@ $ git clone https://github.com/thiago88sp/powershell_repo
 # Access
 $ cd powershell_repo
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
