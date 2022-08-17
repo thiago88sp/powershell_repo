@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{thiago88sp}}/powershell_repo?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{thiago88sp}}/powershell_repo?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{thiago88sp}}/powershell_repo?color=56BEB8">
 
